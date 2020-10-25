@@ -29,3 +29,8 @@
 
 ## Computer Assembly
 ![Course](./ensamblajeComputadorKeys.jpg)
+
+## English Course
+![Course](./cursoInglesB2CVA.jpg)
+
+
