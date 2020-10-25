@@ -7,4 +7,4 @@
 ![University](./certificadoPreparadorUnexpo.jpg)
 
 ## Award as soccer player on university
-![University](./certificadoPreparadorUnexpo.jpg)
+![University](./futbolCampo.jpg)
