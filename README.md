@@ -1,5 +1,3 @@
 # certificateJobsAndCourse
 
-## Diagram
-![Diagram-Monitor](./Venezuela/Course/adminRedes1CcsHosting.jpg)
-
+### On this repositorie you can see all my certificates

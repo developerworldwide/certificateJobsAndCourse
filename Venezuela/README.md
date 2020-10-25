@@ -1,8 +1,8 @@
 
 # certificateJobsAndCourse Venezuela
 
-## Diagram
-![Diagram-Monitor](./Course/adminRedes1CcsHosting.jpg)
+### On this folder you will see all my certificates from Venezuela
 
-## Diagram
-![Diagram-Monitor](./Course/adminRedes2CcsHosting.jpg)
+### There are 3 subfolder: Course, Jobs, University
+
+
