@@ -1,7 +1,7 @@
 # Jobs in Spain
 
-## Primschain S.L. (Clluc-Barrabes.biz)
+## Prismchain S.L. (www.clluc.com | www.barrabes.biz)
 ![Jobs](./certificadoPrácticasPrismchain.jpg)
 
-## Extracurricular Academic Practices
+## UC3M | Universidad Carlos III de Madrid 
 ![Jobs](./acreditaciónPrácticasExtracurricularesUC3M.jpg)
