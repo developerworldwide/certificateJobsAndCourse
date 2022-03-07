@@ -1,7 +1,3 @@
-# University in EEUU
+# Certificates in EEUU
 
-## Certificate Internship Program
-![University](./tc3UniversityCertificate.jpg)
-
-## Certificate Grades 
-![University](./tc3UniversityGrades.jpg)
+### On this folder you will see all my certificates.
