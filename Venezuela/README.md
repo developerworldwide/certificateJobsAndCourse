@@ -1,12 +1,16 @@
-# certificatesJobsAndCourses Venezuela
+# Job and Course Certificates in Venezuela
 
-### On this folder you will see all my certificates from Venezuela.
+### On this folder you will see all my certificates.
 
-### There are 3 subfolder: Course, Jobs, University.
+### There are 3 subfolder:
+* Courses
+* Jobs
+* University
 
-## ID as Engineer in Venezuela 
+## ID as Engineer in Venezuela:
+* Front view 
 ![Cover](./CIV_1.jpg)
 
-## ID as Engineer in Venezuela
+* Back view
 ![Cover](./CIV_2.jpg)
 

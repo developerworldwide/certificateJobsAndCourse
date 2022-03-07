@@ -1,5 +1,9 @@
-# University in Venezuela
+# University in Venezuela:
 
+## College Degree
+![University](./titulo.jpg)
+
+## Diplomas:
 ## Best Report as Engineering Degree
 ![University](./informePasantiaUnexpo.jpg)
 
