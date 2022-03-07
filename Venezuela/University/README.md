@@ -7,8 +7,8 @@
 ## Best Report as Engineering Degree
 ![University](./informePasantiaUnexpo.jpg)
 
-## Award as student support 
+## Award as Mentor (AutoCAD)   
 ![University](./certificadoPreparadorUnexpo.jpg)
 
-## Award as soccer player on university
+## Award as soccer player in college
 ![University](./futbolCampo.jpg)
