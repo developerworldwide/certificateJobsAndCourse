@@ -1,4 +1,4 @@
-# Course in Spain
+# Courses in Spain
 
 ## DevNet Cisco
 ![Courses](./BecasDigitalizaDiplomaCisco.jpg)

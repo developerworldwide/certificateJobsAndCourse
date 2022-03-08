@@ -10,5 +10,5 @@
 ## Award as Mentor (AutoCAD)   
 ![University](./certificadoPreparadorUnexpo.jpg)
 
-## Award as soccer player in college
+## Award as Soccer Player in college
 ![University](./futbolCampo.jpg)
