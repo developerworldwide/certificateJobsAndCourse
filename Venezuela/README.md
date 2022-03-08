@@ -7,7 +7,8 @@
 * Jobs
 * University
 
-## ID as Engineer in Venezuela:
+## General Information for this section:
+### ID as Engineer in Venezuela
 * Front view 
 ![Cover](./CIV_1.jpg)
 
