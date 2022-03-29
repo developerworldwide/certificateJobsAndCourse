@@ -1,3 +1,3 @@
-# Job and Course Certificates
+# Job and Academic Certificates
 
 ### On this repositorie you can see all my certificates.
