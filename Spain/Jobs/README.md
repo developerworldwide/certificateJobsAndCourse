@@ -2,9 +2,9 @@
 
 ## Telefónica 
 * Recomendation Letter:
-![Jobs](./cartaRecomendacionLennardFirmada.jpg)
+![Jobs](./cartaRecomendacionLennardFirmadaTelefonica.jpg)
 * Work Letter:
-![Jobs](./practicasTelefonica.jpg)
+![Jobs](./certificadoPracticasTelefonica.jpg)
 
 ## Prismchain S.L. (www.clluc.com | www.barrabes.biz)
 ![Jobs](./certificadoPrácticasPrismchain.jpg)
