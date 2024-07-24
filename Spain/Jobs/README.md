@@ -1,4 +1,7 @@
 # Jobs in Spain
+## Avanade 
+* Recomendation Letter:
+![Jobs](./cartaRecomendacionAvanade.jpg)
 
 ## Telefónica 
 * Recomendation Letter:
